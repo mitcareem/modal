@@ -15,3 +15,11 @@ In an object property lookup is delegation
 in ES6 this is bound to undefined;
 in CJS this is bound to exports object;
 */
+
+
+/*
+object properties are known as object descriptor
+props are two types
+1. data property----name value pair----name: "Jane"
+2. Accessor property---getters and setters
+*/
