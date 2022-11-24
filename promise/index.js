@@ -6,3 +6,7 @@ const delay = (ms) =>
   });
 
 delay(3000).then((x) => console.log(x));
+//Promise.all
+//Promise.race
+//Promise.allSettled
+//Promise.any
