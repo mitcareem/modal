@@ -1,6 +1,6 @@
 // generator functions return series of values
 // returns an iterable
-// iterable is an that support iteration
+// iterable is an object that supports iteration
 
 function* natNum() {
     let num = 1;

@@ -18,8 +18,9 @@ in CJS this is bound to exports object;
 
 
 /*
-object properties are known as object descriptor
-props are two types
+descriptor is the set of attributes
+props are three types
 1. data property----name value pair----name: "Jane"
 2. Accessor property---getters and setters
+3. Internal Property----available in prototype for e.g. toString()
 */
