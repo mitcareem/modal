@@ -5,7 +5,7 @@ only last call is executed
 debouncing limiting the rate of function call
 
 if the time difference between two keypress event is more than given time
-then only make function
+then only make function call
 
 Throttling---only make the function call after a certain limit of time
 
