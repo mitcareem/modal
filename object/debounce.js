@@ -1,6 +1,5 @@
 // let debounced = debounce(function, delay);
-/* in debounce function runs only a time
-only last call is executed
+/* 
 
 debouncing limiting the rate of function call
 
