@@ -11,6 +11,12 @@ let sym = Symbol.for()----create in global object
 Symbol.keyFor(sym) ----access from global object
 
 Symbol.iterator  --- over write the behavior of for of loop
+Symbol are used to simulate the behavior of operator loading in other language like Python
+Symbol.hasInstance over write the behavior of instanceof
+Symbol.match over write the behavior of string match
+
+Symbol.replace over write the behavior of string replace....... and so on.......
+
 
 */
 
